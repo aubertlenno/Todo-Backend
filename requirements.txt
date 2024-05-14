@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+fastapi-login
+mysql-connector-python
+aiofiles
+bcrypt
